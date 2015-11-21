@@ -1,16 +1,5 @@
-Revision history for PERLANCAR-Debian-Releases
+Revision history for Zodiac-Chinese-Table
 
-0.03    2015-10-01 (PERLANCAR)
+0.01    2015-11-21 (PERLANCAR)
 
-	- Update data (kernel/perl version for older releases).
-
-
-0.02    2015-09-22 (PERLANCAR)
-
-	- Update data (add column perlver).
-
-
-0.01    2015-09-22 (PERLANCAR)
-
-        - First version, released while waiting for new Debian::Releases which
-          is supposed to contain additional data too.
+        - First version.
