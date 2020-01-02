@@ -2009,8 +2009,8 @@ Sample result:
 =head1 DESCRIPTION
 
 This module can look up Chinese zodiac for a given Gregorian date. Compared to
-L<Zodiac::Chinese>, it uses a lookup table (currently available for years
-1924-2043) so it is more accurate.
+L<Zodiac::Chinese>, it uses a lookup table (currently available for Jan 1900 -
+Feb 2092) so it is more accurate.
 
 Data source is currently at: https://github.com/perlancar/gudangdata
 (table/chinese_zodiac), which in turn is parsed from Wikipedia article.
